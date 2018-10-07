@@ -1,0 +1,14 @@
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E2-2\Clase08\Clase08\bin\Debug\Clase08.exe.config
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E2-2\Clase08\Clase08\obj\Debug\Clase08.csprojResolveAssemblyReference.cache
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E2-2\Clase08\Clase08\obj\Debug\Clase08.Form1.resources
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E2-2\Clase08\Clase08\obj\Debug\Clase08.Properties.Resources.resources
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E2-2\Clase08\Clase08\obj\Debug\Clase08.csproj.GenerateResource.Cache
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E2-2\Clase08\Clase08\bin\Debug\Clase08.exe
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E2-2\Clase08\Clase08\bin\Debug\Clase08.pdb
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E2-2\Clase08\Clase08\bin\Debug\Operacion.dll
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E2-2\Clase08\Clase08\bin\Debug\Operacion.pdb
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E2-2\Clase08\Clase08\obj\Debug\Clase08.exe
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E2-2\Clase08\Clase08\obj\Debug\Clase08.pdb
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\U2\E U2\Clase08\Clase08\bin\Debug\Clase08.exe.config
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\U2\E U2\Clase08\Clase08\obj\Debug\Clase08.exe
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\U2\E U2\Clase08\Clase08\obj\Debug\Clase08.pdb

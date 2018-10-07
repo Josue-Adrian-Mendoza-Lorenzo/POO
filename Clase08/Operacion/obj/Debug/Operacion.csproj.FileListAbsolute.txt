@@ -1,0 +1,5 @@
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E2-2\Clase08\Operacion\obj\Debug\Operacion.csprojResolveAssemblyReference.cache
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E2-2\Clase08\Operacion\bin\Debug\Operacion.dll
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E2-2\Clase08\Operacion\bin\Debug\Operacion.pdb
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E2-2\Clase08\Operacion\obj\Debug\Operacion.dll
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E2-2\Clase08\Operacion\obj\Debug\Operacion.pdb
