@@ -1,0 +1,6 @@
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\Ejemplo\Ejercicio03\ListaDeEstudiante\ListaDeEstudiante\bin\Debug\ListaDeEstudiante.exe.config
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\Ejemplo\Ejercicio03\ListaDeEstudiante\ListaDeEstudiante\bin\Debug\ListaDeEstudiante.exe
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\Ejemplo\Ejercicio03\ListaDeEstudiante\ListaDeEstudiante\bin\Debug\ListaDeEstudiante.pdb
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\Ejemplo\Ejercicio03\ListaDeEstudiante\ListaDeEstudiante\obj\Debug\ListaDeEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\Ejemplo\Ejercicio03\ListaDeEstudiante\ListaDeEstudiante\obj\Debug\ListaDeEstudiante.exe
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\Ejemplo\Ejercicio03\ListaDeEstudiante\ListaDeEstudiante\obj\Debug\ListaDeEstudiante.pdb
