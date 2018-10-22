@@ -1,0 +1,6 @@
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E-U2Ex\E-U2Ex\bin\Debug\E-U2Ex.exe.config
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E-U2Ex\E-U2Ex\bin\Debug\E-U2Ex.exe
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E-U2Ex\E-U2Ex\bin\Debug\E-U2Ex.pdb
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E-U2Ex\E-U2Ex\obj\Debug\E-U2Ex.csprojResolveAssemblyReference.cache
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E-U2Ex\E-U2Ex\obj\Debug\E-U2Ex.exe
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\E-U2Ex\E-U2Ex\obj\Debug\E-U2Ex.pdb
