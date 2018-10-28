@@ -1,0 +1,12 @@
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\C3-4\C3-4\bin\Debug\C3-4.exe.config
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\C3-4\C3-4\obj\Debug\C3-4.csprojResolveAssemblyReference.cache
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\C3-4\C3-4\bin\Debug\C3-4.exe
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\C3-4\C3-4\bin\Debug\C3-4.pdb
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\C3-4\C3-4\obj\Debug\C3-4.exe
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\C3-4\C3-4\obj\Debug\C3-4.pdb
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\POO\C3-4\C3-4\bin\Debug\C3-4.exe.config
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\POO\C3-4\C3-4\obj\Debug\C3-4.exe
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\POO\C3-4\C3-4\obj\Debug\C3-4.pdb
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\POO\C3-4\C3-4\bin\Debug\C3-4.exe
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\POO\C3-4\C3-4\bin\Debug\C3-4.pdb
+C:\Users\Josue\Desktop\Todo\Carpetas\TEC\Personales\Mis Documentos\18-2 ITT\POO\Ejercicios\POO\C3-4\C3-4\obj\Debug\C3-4.csprojResolveAssemblyReference.cache
